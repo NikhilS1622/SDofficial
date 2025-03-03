@@ -23,7 +23,7 @@ const hardcodedData: Product[] = [
   },
   {
     name: "SMPS",
-    image: "https://drive.google.com/uc?export=view&id=1HN1QWq4McL3yEkattEwwryY3hI30eAVJ",
+    image: "https://drive.google.com/uc?export=view&id=1eRy-FPqDGC_aom09Co2p-M2ORrBL4Ki3",
     pdf: "https://drive.google.com/file/d/1ftLX6aqz0USMwO4uqQhPn2k_qO_ETT5i/view?usp=sharing",  // Open PDF in browser
   },
   {
